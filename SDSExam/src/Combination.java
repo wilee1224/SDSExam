@@ -10,11 +10,21 @@ public class Combination {
 		Scanner sc = new Scanner(System.in);
 		
 		t = sc.nextInt();
-		n = sc.nextInt();
-		k = sc.nextInt();
+		
+		for (int i = 1; i <= t ; i++) {
+			n = sc.nextInt();
+			k = sc.nextInt();
+			
+			System.out.println();
+			
+			
+			
+			
+			System.out.println(t+n+k);
+			
+		}
 		
 		
-		System.out.println(t+n+k);
 		
 	
 		
