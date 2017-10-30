@@ -17,7 +17,6 @@ public class Combination {
 		System.out.println(t+n+k);
 		
 	
-		
 	}
 
 }
