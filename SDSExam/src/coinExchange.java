@@ -1,12 +1,13 @@
+//동전교환
+//https://koitp.org/problem/COIN/read/
+// 주어진 동전이 배수관계에 있다면 그리디, 그렇지 않으면 DP로 접근
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
  
-//동전교환
-//https://koitp.org/problem/COIN/read/
-// 주어진 동전이 배수관계에 있다면 그리디, 그렇지 않으면 DP로 접근
- 
+
 public class coinExchange {
     
     static int n,W;
